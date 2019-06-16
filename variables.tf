@@ -6,13 +6,13 @@ variable "region" {
 
 variable "access_key_id" {
 
-    default = "AKIATMN3XV2CK4MWJZFP" # You need to provide your own access key from AWS.
+    default = "AKIA3F6ZL4VBWPRX6XOX" # You need to provide your own access key from AWS.
   
 }
 
 variable "secret_access_key_id" {
 
-    default = "rJ7J0MOAEUTIxqYuI9CFIHJ39bqYb57/aA858EuP" # You need to provide your own secret key from AWS.
+    default = "xlfavGYb6Hblj4x2GFxaMtmb4amKQ1rW0P61CYOH" # You need to provide your own secret key from AWS.
   
 }
 
